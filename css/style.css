@@ -110,6 +110,22 @@ h1{
     color: #001eca;
 }
 
+.footer-info{
+    font-weight: 600;
+    color: #979797;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.footer-link{
+    color: #979797;
+}
+
+.footer-link:hover{
+    color: #000;
+}
+
 @media (max-width: 760px) {
     .row{
         flex-direction: column;
